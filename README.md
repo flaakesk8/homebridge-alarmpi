@@ -34,9 +34,10 @@ According to the vendor documentation PG X and PG Y are potential free, but for 
 
 
 ### Thanks to
-my brother in law
-homebridge-gpio-device
-homebridge-alarmdotcom
+
+- @my brother in law
+- @homebridge-gpio-device
+- @homebridge-alarmdotcom
 
 
 
