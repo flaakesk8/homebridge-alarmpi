@@ -1,5 +1,5 @@
 # homebridge-alarmpi
-exposes the GPIO of a raspberry PI to control a Jablotron Alarm system
+**exposes the GPIO of a raspberry PI to control a Jablotron Alarm system**
 
 It uses an electronical wiring,a relay and a raspberry PI to get the state of an Jablotron Oasis 80 alarm system and also sets the state.
 
