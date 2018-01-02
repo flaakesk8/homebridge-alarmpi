@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-alarmpi",
+  "version": "0.0.1",
+  "description": "uses raspberry pi gpio to read and set status of alarm system",
+  "main": "index.js",
+  "dependencies": {
+    "pi-gpio": "^0.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "raspberrypi",
+    "jablotron"
+  ],
+ "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "JRB",
+  "license": "ISC"
+}

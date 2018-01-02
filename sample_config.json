@@ -1,0 +1,25 @@
+{
+  "accessories" : [
+    {
+      "name" : "Jablotron",
+      "accessory" : "homebridge-alarmpi.alarmpi",
+      "pinActiveAlert" : 26,
+      "pinStatusZoneA" : 13,
+      "pinStatusZoneB" : 19,
+      "pinSetZoneA" : 16,
+      "pinUnsetZoneA" : 16,
+      "pinSetZoneB" : 20,
+      "pinUnsetZoneB" : 20,
+      "timeoutinMs" : 1000
+    }
+  ],
+  "bridge" : {
+    "username" : "DD:DD:DD:DD:DD:DD",
+    "name" : "AlarmPi",
+    "pin" : "031-55-555",
+    "port" : 51828
+  },
+  "platforms" : [
+
+  ]
+}
