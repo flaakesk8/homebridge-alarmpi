@@ -13,7 +13,7 @@ Firstly the alarm system has be brought into service mode by entering * 0 <Servi
 
 Enter 234 to set PG X to ON when Zone A is armed.
 Enter 244 to set PG Y to ON when Zone B is armed.
-a more detailed description can be found in the [Oasis user manual] (https://www.jablotron.com/en/about-jablotron/downloads/?filename=ja-80-oasis-user_en_mke22103.pdf&do=downloadFile/).
+a more detailed description can be found in the [Oasis user manual](https://www.jablotron.com/en/about-jablotron/downloads/?filename=ja-80-oasis-user_en_mke22103.pdf&do=downloadFile/).
 
 
 ### Set the state:
